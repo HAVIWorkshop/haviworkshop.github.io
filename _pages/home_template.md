@@ -1,5 +1,5 @@
 ---
-layout: layout_2024
+layout: layout_template
 urltitle:  "GAZE 2024: Gaze Estimation and Prediction in the Wild"
 title: "GAZE 2024: Gaze Estimation and Prediction in the Wild"
 categories: cvpr, workshop, computer vision, robotics, machine learning, natural language processing, gaze estimation
